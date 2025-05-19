@@ -1,0 +1,10 @@
+# local packages
+-e .
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyterlab
+
