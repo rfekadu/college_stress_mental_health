@@ -1,7 +1,7 @@
 College Stress and Mental Health
 ==============================
 
-This project will explore the impact of academic stress on mental health in college students, primarily during and after the COVID-19 pandemic. I will use collect information from a dataset surveyed from the Healthy Minds Study, after cleaning, analyzing, and modeling the dataset.
+This project will explore the impact of academic stress on mental health in college students, primarily during and after the COVID-19 pandemic. I will use collect information from a dataset surveyed from the Healthy Minds Study, after cleaning, analyzing, and modeling the dataset. The analysis includes data cleaning, exploratory data analysis (EDA), regression modeling, and data visualization using Python. The goal is to understand the role of academic pressure and pandemic-related stressors in shaping depression and anxiety outcomes using tools like the PHQ-9 and GAD-7 scales.
 
 ==============================
 
